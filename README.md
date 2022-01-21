@@ -1,7 +1,7 @@
 # **WordScramble**
 
 ## Description
-This is a dice game I saw someone play online. I didn't know where to buy the game, so I decided to make it!
+This is a dice game I found online, but was unable to purchase the physical version. So I decided to make it!
 I made 3D models of the dice in Blender, UV unwrapped them, and traced the letters on each side of the dice manually with
 Adobe Substance 3D Painter. As you are playing the game, you can see my use of normal maps as well where the black letters 
 indent on the dice. 
@@ -28,4 +28,5 @@ As you can see, I didn't solve this puzzle. Maybe you can!
 5. **Esc** - This game is fullscreen, so click esc to exit the game.
 
 ### Disclaimer: 
-This is not a finished game, so there are many bugs and many things I will add in the future
+This is a work in progress
+In do not own rights to this game. I made it for my own enjoyment, please do not distribute.
