@@ -29,4 +29,4 @@ As you can see, I didn't solve this puzzle. Maybe you can!
 
 ### Disclaimer: 
 This is a work in progress
-In do not own rights to this game. I made it for my own enjoyment, please do not distribute.
+I do not own rights to this game. I made it for my own enjoyment, please do not distribute.
