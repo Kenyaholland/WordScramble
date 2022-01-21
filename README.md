@@ -14,8 +14,8 @@ It's simple. Roll the dice. Make words with the letters and join them together i
 As you can see, I didn't solve this puzzle. Maybe you can!
 
 ## **Set-up instructions**
-1. Clone the HTTPS link into a folder
-2. Open the folder and open this application
+1. Clone the HTTPS link into a folder.
+2. Open the "WordScramble" folder and open this application.
 
 ![image](https://user-images.githubusercontent.com/46533825/150461015-35fb78d0-549b-4fa7-8f98-5668f65779b1.png)
 
